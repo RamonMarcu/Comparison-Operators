@@ -5,7 +5,7 @@ if (hungerLevel > 7) {
   console.log('We can eat later!')
 }
 
-/* if run the first example console displays: We can eat later! */
+// if run, the result will be: We can eat later!
 
 let hungerLevel = 7;
 if (hungerLevel < 8) {
@@ -14,4 +14,4 @@ if (hungerLevel < 8) {
   console.log('We can eat later!')
 }
 
-/* if run second example console displays: Time to eat! */
+// if run, the result will be: Time to eat! 
